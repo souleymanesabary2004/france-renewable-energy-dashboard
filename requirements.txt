@@ -1,0 +1,8 @@
+# Versions used to build and test the project (Python 3.12 or 3.13).
+# Install in a fresh environment:  pip install -r requirements.txt
+streamlit==1.66.1
+plotly==7.1.0
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+requests==2.34.2

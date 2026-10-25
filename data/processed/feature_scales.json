@@ -1,0 +1,36 @@
+{
+  "scales": {
+    "renewable": [
+      2.838640365772034,
+      89.43748371693582
+    ],
+    "new_renewables": [
+      2.0552626313162112,
+      81.50466740698437
+    ],
+    "fossil": [
+      0.34439022647666573,
+      70.5060219171277
+    ],
+    "diversity": [
+      0.08364172944713744,
+      0.8926568048610358
+    ],
+    "gain_renewable": 22.060818352542626,
+    "gain_new": 17.705811524033354
+  },
+  "weights_transition": {
+    "renewable": 0.35,
+    "new_renewables": 0.3,
+    "fossil_free": 0.2,
+    "diversity": 0.15
+  },
+  "weights_momentum": {
+    "renewable": 0.5,
+    "new_renewables": 0.5
+  },
+  "percentiles": [
+    1,
+    99
+  ]
+}

@@ -1,0 +1,7 @@
+source,label,family,is_renewable,is_new_renewable,color_hex
+nuclear,Nuclear,Nuclear,False,False,#E69F00
+thermal,Thermal,Fossil / thermal,False,False,#7F7F7F
+hydro,Hydro,Renewable,True,False,#0072B2
+wind,Wind,Renewable,True,True,#56B4E9
+solar,Solar,Renewable,True,True,#D55E00
+bioenergy,Bioenergy,Renewable,True,True,#009E73

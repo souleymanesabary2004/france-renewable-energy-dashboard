@@ -1,0 +1,1 @@
+{"seed": 42, "sampling": "none (all 1,872 region-months are used)", "note": "The app uses the full dataset; the seed is only used for the reproducible jitter of exploratory plots."}

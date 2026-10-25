@@ -1,0 +1,14 @@
+region_code,region,region_short,region_slug,lat,lon,has_nuclear,geometry_type,n_polygon_points,geo_valid,first_month,last_month,n_months
+11,Île-de-France,IDF,ile_de_france,48.709315,2.503402,False,MultiPolygon,185,True,2014-01,2025-12,144
+24,Centre-Val de Loire,CVL,centre_val_de_loire,47.484776,1.684391,True,MultiPolygon,355,True,2014-01,2025-12,144
+27,Bourgogne-Franche-Comté,BFC,bourgogne_franche_comte,47.234282,4.806857,False,MultiPolygon,411,True,2014-01,2025-12,144
+28,Normandie,Normandie,normandie,49.120062,0.110938,True,MultiPolygon,305,True,2014-01,2025-12,144
+32,Hauts-de-France,HdF,hauts_de_france,49.969517,2.771372,True,MultiPolygon,287,True,2014-01,2025-12,144
+44,Grand Est,Grand Est,grand_est,48.688977,5.613113,True,MultiPolygon,464,True,2014-01,2025-12,144
+52,Pays de la Loire,PdL,pays_de_la_loire,47.478104,-0.816788,False,MultiPolygon,356,True,2014-01,2025-12,144
+53,Bretagne,Bretagne,bretagne,48.177551,-2.841489,False,MultiPolygon,384,True,2014-01,2025-12,144
+75,Nouvelle-Aquitaine,N-Aquitaine,nouvelle_aquitaine,45.206826,0.207572,True,MultiPolygon,617,True,2014-01,2025-12,144
+76,Occitanie,Occitanie,occitanie,43.7025,2.143923,True,MultiPolygon,513,True,2014-01,2025-12,144
+84,Auvergne-Rhône-Alpes,ARA,auvergne_rhone_alpes,45.514642,4.53612,True,MultiPolygon,602,True,2014-01,2025-12,144
+93,Provence-Alpes-Côte d'Azur,PACA,provence_alpes_cote_d_azur,43.95877,6.061003,False,MultiPolygon,423,True,2014-01,2025-12,144
+94,Corse,Corse,corse,42.151504,9.106155,False,MultiPolygon,169,True,2014-01,2025-12,144

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# the raw file (about 21 MB) is downloaded by `python -m utils.io download`, never committed
+data/raw/
+data/*.csv
+*.part
+*.bak
+build_nb*.py
+patch_nb*.py
+*.mp4
+*.zip
